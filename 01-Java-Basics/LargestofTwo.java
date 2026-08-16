@@ -8,7 +8,7 @@ public class LargestofTwo {
         System.out.println(a + " is greatest.");
     }
     else{
-        System.out.println(b + " is gratest");
+        System.out.println(b + " is greatest");
     }
     }
 }
