@@ -10,9 +10,9 @@ public class NumberInput {
     int number = sc.nextInt();
     System.out.println("The number is: " + number );
     if(number>0){
-        System.out.println("number is positive");
+        System.out.println(number + " is positive");
     }else if(number<0){
-        System.out.println("number is negative");
+        System.out.println(number + " is negative");
     }else{
         System.out.println("number is 0");
     }
