@@ -1,4 +1,4 @@
-
+//🟢 Challenge 26: Multiplication Table
 
 import java.util.Scanner;
 
